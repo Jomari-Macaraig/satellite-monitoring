@@ -1,0 +1,1 @@
+SATELLITE_URL = "https://api.cfast.dev/satellite/"
